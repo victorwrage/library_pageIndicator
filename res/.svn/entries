@@ -1,0 +1,59 @@
+10
+
+dir
+2426
+svn://192.168.0.250/android/library_pageIndicator/res
+svn://192.168.0.250
+
+
+
+2013-07-13T03:50:38.281250Z
+2426
+longge
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+299d23ca-5c1f-094e-8f35-abcf76e5704a
+
+
+
+
+
+
+0
+
+color
+dir
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+layout
+dir
+
+values
+dir
+
